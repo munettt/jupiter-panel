@@ -6,8 +6,8 @@
   ],
   "description": "jupiter admin panel",
   "main": "gulpfile.js",
-  "license": "ISC",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
