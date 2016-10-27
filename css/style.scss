@@ -1,0 +1,79 @@
+/*
+
+*/
+@import "scss/bootstrap";
+
+body
+{
+  background: #ebefff;
+}
+#site-header
+{
+  .navbar
+  {
+    background:#7421d2;
+
+    .navbar-brand
+    {
+      margin:0 1rem 0 0;
+      padding:0;
+      img { height:45px }
+    }
+
+    .navbar-toggler { }
+
+    .navbar-toggleable-xs
+    {
+      @include media-breakpoint-down(xs) {
+        clear: both;
+      }
+      .nav-item .ion { font-size:1.2rem }
+    }
+
+    .dropdown-user .dropdown-toggle
+    {
+      color:#fff
+    }
+  }
+}
+
+#page-title
+{
+
+  margin-top:3.8rem;
+  background:#fff;
+  padding:1rem;
+  border-bottom:1px solid #ccc;
+
+  h1,h2,h3 {
+    font-weight:normal;
+  }
+
+  h1 { font-size: 1.8rem }
+  h2 { font-size: 1.6rem }
+  h3 { font-size: 1.2rem }
+
+  .page-options {
+    .ion + span { margin-left:0.5rem }
+  }
+}
+
+#main-container
+{
+  margin-top:1rem;
+}
+
+.main-content
+{
+  border:1px solid #ccc;
+  background:#fff;
+
+  .content-title { padding: 0.8rem; border-bottom:1px solid #eee;  }
+  .content-title h3 { font-size:1.2rem; margin:0; }
+  .content-body { padding:1.2rem }
+}
+
+.sidepanel
+{
+  .nav .nav-item .nav-link.active { background:#ccc; color:#333 }
+}

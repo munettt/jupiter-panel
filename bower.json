@@ -1,0 +1,27 @@
+{
+  "name": "jupiter-panel",
+  "homepage": "https://github.com/munettt/jupiter-panel",
+  "authors": [
+    "Munzir Rosdi <munzir@gmail.com>"
+  ],
+  "description": "jupiter admin panel",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ionicons": "ionicons#^2.0.1",
+    "bootstrap": "^v4.0.0-alpha.5"
+  },
+  "version": "0.1.0",
+  "repository": {
+    "url": "git+https://github.com/munettt/jupiter-panel.git",
+    "type": "git"
+  }
+}
