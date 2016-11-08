@@ -1,0 +1,21 @@
+{
+  "name": "munettt/jupiter-panel",
+  "description": "jupiter admin panel. bootstrap 4 alpha 5",
+  "homepage": "http://mhr.my/",
+  "keywords": [
+    "template",
+    "web",
+    "admin",
+    "bootstrap4"
+  ],
+  "authors": [
+    {
+      "name": "Munzir Rosdi",
+      "email": "munzir@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/munettt/jupiter-panel/issues"
+  }
+}
