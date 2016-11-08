@@ -19,7 +19,7 @@
     "Ionicons": "ionicons#^2.0.1",
     "bootstrap": "^v4.0.0-alpha.5"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "url": "git+https://github.com/munettt/jupiter-panel.git",
     "type": "git"
